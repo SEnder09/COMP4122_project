@@ -1,0 +1,52 @@
+Here’s a grammatically corrected version of your text:
+
+---
+
+**A. Level Distribution:**
+
+- Opening: UI
+- Start Game
+- Load Game? / Load Level (Level 1 / Level 2 / Level 3)
+- Exit Game
+
+**Level 1: Couples**
+
+**Level 2: Bald Heads**
+
+**Level 3: Shrine**
+
+---
+
+**B. Mechanics:**
+
+- If the player clicks on the target GameObject corresponding to the level (e.g., clicking on couples in Level 1), switch to the next scene.
+
+---
+
+**C. Functions to Implement:**
+
+1. First-person view control
+2. Player movement
+3. NPCs randomly walking (?)
+4. ...
+
+---
+
+**D. Assets Needed:**
+
+1. Scene for each level  
+   Q: Should the background be modern? For example, could a shopping mall or park serve as the game venue?
+
+2. NPC models
+
+3. Background music (optional)
+
+---
+
+**E. Plot:**
+
+- The plot will be written after each scene. When switching to the next level, the player will go through all the plot dialogues once.
+
+--- 
+
+Feel free to ask if you need further modifications or additional assistance!
